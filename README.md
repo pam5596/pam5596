@@ -2,7 +2,6 @@
 This is Ryosuke Saiki's GitHub repository.
 #### [My Portfolio](https://ryosuke-saiki-portfolio.vercel.app/)
 
-![pdmuds4 GitHub stats](https://github-readme-stats.vercel.app/api?username=pdmuds4&show_icons=true&theme=vue-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdmuds4&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
