@@ -2,7 +2,9 @@
 This is Ryosuke Saiki's GitHub repository.
 #### [My Portfolio](https://ryosuke-saiki-portfolio.vercel.app/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdmuds4&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdmuds4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Recently Works](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pdmuds4)
+
 
 
 ## Skills
