@@ -8,7 +8,7 @@ This is Ryosuke Saiki's GitHub repository.
 
 
 ## Skills
-<img src="https://skillicons.dev/icons?i=python,html,css,js,typescript,react,next,vue,nuxt,go,postgresql,github,vscode,docker,supabase,aws" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,python,fastapi,typescript,react,next,remix,vue,nuxt,vite,jest,go,github,vscode,docker,supabase,mongo,postgresql,aws" />
 
 ## works
 ### 📝[Qiita](https://qiita.com/pam5596)
