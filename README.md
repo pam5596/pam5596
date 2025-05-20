@@ -11,12 +11,6 @@ This is Ryosuke Saiki's GitHub repository.
 
 ## works
 ### 📝[Qiita](https://qiita.com/pam5596)
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/pam5596/posts.svg)](http://qiita.com/pam5596)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/pam5596/contributions.svg)](http://qiita.com/pam5596)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/pam5596/followers.svg)](http://qiita.com/pam5596)
-
 ### 🪗[YouTube](https://www.youtube.com/channel/UC6pZ4QAQqHrRMd3hr7kH3sg)
-also, I compose music. but not frequency...
-
 
 
