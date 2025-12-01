@@ -7,7 +7,21 @@ This is PAM GitHub repository.
 
 
 ## Skills
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,python,fastapi,typescript,react,next,remix,vue,nuxt,vite,jest,go,github,vscode,docker,supabase,mongo,postgresql,aws" />
+### langage
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,python,ruby" />
+
+### backend
+<img src="https://skillicons.dev/icons?i=flask,fastapi,express,next,remix,nuxt,vite,jest,vitest,prisma,rails" />
+
+### frontend
+<img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,vue,vuetify" />
+
+### devops
+<img src="https://skillicons.dev/icons?i=docker,supabase,mongo,sqlite,postgresql,aws,gcp,vercel" />
+
+### tools
+<img src="https://skillicons.dev/icons?i=github,vscode,postman,figma" />
+
 
 ## works
 ### 📝[Qiita](https://qiita.com/pam5596)
